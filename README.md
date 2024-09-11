@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&psig=AOvVaw0JibwK-l_OA84diBWjN9L2&ust=1726106559001000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj8zJjmuYgDFQAAAAAdAAAAABAQ"/></p>
+<img align="right" alt="coding" width="400" src="54e37d8074ebcde1d96c77d7b2a7f310"/></p>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-amman-a2187a323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-amman-a2187a323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
